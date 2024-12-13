@@ -77,6 +77,7 @@ function [BAT,MD,TTP]=BAT_LLM_ridge(t,y)
 %   MD: mid intensity location
 %   TTP: time to peak
 
+% Reference: 
 % LLM algorithm was adapted from:
 % "An automatic approach for estimating bolus arrival time in dynamic 
 % contrast MRI using piecewise continuous regression models"
